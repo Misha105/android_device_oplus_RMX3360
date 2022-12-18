@@ -12,4 +12,9 @@ export DEVICE=RMX3360
 export DEVICE_COMMON=sm8350-common
 export VENDOR=oplus
 
+# Let's flos
+export TARGET_FLOS=true
+# GApps build
+export WITH_GMS=true
+
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"

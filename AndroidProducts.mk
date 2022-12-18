@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_RMX3360.mk
+    $(LOCAL_DIR)/arrow_RMX3360.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_RMX3360-user \
-    lineage_RMX3360-userdebug \
-    lineage_RMX3360-eng
+    arrow_RMX3360-user \
+    arrow_RMX3360-userdebug \
+    arrow_RMX3360-eng
